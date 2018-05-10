@@ -8,7 +8,7 @@ Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator
 
 ![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
 
-See Poole in action with [the demo site](http://demo.getpoole.com).
+See Poole in action with [the demo site](https://krugersu.github.io/poole).
 
 There are currently two official themes built on Poole:
 
