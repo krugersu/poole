@@ -31,6 +31,6 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 pages_list:
-  О блоге: '/about'
+  О блоге: '/about.md'
   Архив записей: '/archive'
   Лента: '/atom.xml'
