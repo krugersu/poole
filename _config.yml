@@ -30,3 +30,7 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+pages_list:
+  О блоге: '/about'
+  Архив записей: '/archive'
+  Лента: '/atom.xml'
